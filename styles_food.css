@@ -1,0 +1,44 @@
+.headline {
+    padding: 120px; color: rgb(244, 245, 174);
+    font-family: 'Bungee Inline', cursive;
+    font-size: 77px;
+  }
+  
+  .navbar-light .navbar-brand { 
+      font-family: 'Cabin Sketch', cursive;
+  }
+
+  .nav-link {
+      font-family: 'Cabin Sketch', cursive;
+  }
+
+  .nav-link2 {
+      font-family: 'Cabin Sketch', cursive;
+  }
+
+  .jumbotron {
+    background-image: url(2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .logo {
+    height: 40px;
+  }
+
+  .title {
+    font-family: 'Patua One';
+    color: rgb(25, 97, 230);
+  }
+
+  .table {
+    font-family: 'Carter One';
+  }
+
+  .overall { 
+    font-family: 'Boogaloo';
+  }
+
+  h2 {
+    color: rgb(53, 20, 240);
+  }
